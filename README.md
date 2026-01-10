@@ -122,7 +122,7 @@ After execution, the output directory will contain:
 🧾 Run Manifest
 - Execution timestam
 - Generated outputs overview
-- 
+  
 ---
 
 📄 License
