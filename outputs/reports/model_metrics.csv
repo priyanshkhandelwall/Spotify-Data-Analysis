@@ -1,0 +1,2 @@
+model,rmse,mae,r2_score
+Random Forest,29.832,25.158,-0.078
